@@ -59,6 +59,7 @@ class Program
         var builder = new ConfigurationBuilder();
         builder.AddEnvironmentVariables();
 
+
         var configurationRoot = builder.Build();
         //属性--> 调试里面 设置的环境变量的 参数
         Console.WriteLine($"key1:{configurationRoot["key1"]}");
