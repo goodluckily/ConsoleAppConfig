@@ -1,0 +1,16 @@
+{
+  "profiles": {
+    "ConsoleAppConfig": {
+      "commandName": "Project",
+      "commandLineArgs": "CommandLineKey1=TestCommandLineKeyCYCY --CommandLineKey2=22KeyCYCY /CommandLineKey3=value3 -k1=k3",
+      "environmentVariables": {
+        "key1": "cycy",
+        "key2": "cy2cy",
+        "select__key3": "cy__key3",
+        "select__key3__key4": "cy__key3__key4",
+        "cy_key1": "cy key1,cy key1",
+        "cy_key2": "cy key2,cy key2"
+      }
+    }
+  }
+}
