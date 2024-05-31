@@ -177,7 +177,11 @@ class Program
 
         #endregion
 
-        #region 结合IOption<> 使用
+        #region 7.结合IOption<> 使用 选项框架
+
+        #endregion
+
+        #region 8.为选项框架添加验证逻辑
 
         #endregion
     }
