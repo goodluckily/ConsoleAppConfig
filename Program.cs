@@ -176,6 +176,10 @@ class Program
         Console.WriteLine($"Key4---->:{config.Key4}");
 
         #endregion
+
+        #region 结合IOption<> 使用
+
+        #endregion
     }
 
     class AppSettingConfigModel
